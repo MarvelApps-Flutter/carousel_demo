@@ -25,7 +25,7 @@ A flutter app demonstrating the use of Carousel using a simple UI.
 
 <table>
   <tr>
-    <td><img src="https://github.com/MarvelApps-Flutter/carousel_demo/blob/master/screenshots/ios/ios1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/carousel_demo/blob/dev/screenshots/ios/ios1.png" height="480px"></td>
   </tr>
  </table>
 
